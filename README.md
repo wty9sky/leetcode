@@ -1,5 +1,5 @@
-# LeetCode 打卡
+# LeetCode Golang Solutions
 
-|  #   | Title 题目  | Difficulty | Golang | Python | JS&TS | C++ | Rust | Swift | Java |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:| :-: | :-: |
-|0001|[Two Sum 两数之和](https://leetcode.cn/problems/two-sum/description/)|Easy|✅|✅|✅| | | | |
+| # | Title | Solution | Difficulty | SubmitTime |
+|--- | --- | --- | --- | --- |
+| 1 | [Two Sum 两数之和](https://leetcode.cn/problems/two-sum/) | [JavaScript](./0001-two-sum-go/solution.go) | Easy | 2024-08-01 |
